@@ -1,4 +1,4 @@
-# lung_nodule_nam
+# ct_lung_nodule_nam
 
 Codes for CNN-based lung nodule localization and lung cancer detection, used in <br />
 1) *Discriminative Localization in CNNs for Weakly-Supervised Segmentation of Pulmonary Nodules*, [MICCAI'17](https://arxiv.org/abs/1707.01086); <br />
